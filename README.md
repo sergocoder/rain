@@ -1,2 +1,2 @@
 # rain
-rain in C++
+rain in C
